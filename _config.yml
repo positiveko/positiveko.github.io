@@ -25,7 +25,7 @@ url: 'https://positiveko.github.io' # the base hostname & protocol for your site
 baseurl: '' # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: '/assets/images/edieticon.png' # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name: 'Eunjung KO'
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: '/assets/images/edieticon.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: 'I am an **amazing** person.'
   location: 'South Korea'
   email:
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
-      # url: "https://github.com/"
+      url: 'https://github.com/positiveko'
     - label: 'Instagram'
       icon: 'fab fa-fw fa-instagram'
       # url: "https://instagram.com/"
