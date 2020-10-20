@@ -6,9 +6,13 @@ categories: TIL CSS 기본
 
 tags: TIL Block Inline CSS
 
+date: 2020-10-19 18:19:28 -0400
+
 toc: true
 
 ---
+
+
 
 
 # CSS 기본 01 - Block vs Inline vs Inline-block
