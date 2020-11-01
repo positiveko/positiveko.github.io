@@ -40,7 +40,7 @@ date: 2020-10-29 14:19:28 -0400
 
 일단 어렵게 생각하지 말고 **객체 = '{key: value}' 형태의 프로퍼티들을 저장하는 컨테이너**라고 생각하자.
 
-![image-20201031222732799](/Users/edieko/coding/positiveko.github.io/_posts/2020-10-29-JavaScript-object.assets/image-20201031222732799.png)
+![image-20201031222732799](/assets/image-20201031222732799.png)
 
 간단한 객체를 가지고 왔다. 
 
